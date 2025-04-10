@@ -1,12 +1,48 @@
-# React + Vite
+# Personal Portfolio - Md Ajajur Rahman
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive portfolio website built with **React**, **Tailwind CSS**, and **Framer Motion**. This project is designed to showcase my frontend skills and animations, and it's responsive, professional, and optimized for performance.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [[View Live Site](https://your-vercel-or-netlify-link.com)](https://ajajurrahman.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 Features
+
+- ⚛️ Built with React and Vite
+- 🎨 Styled using Tailwind CSS
+- 🧠 Animations powered by Framer Motion
+- 📱 Fully responsive across all devices
+- 🔥 Sticky, animated navbar with a toggle menu for mobile
+- 📂 Projects with interactive hover effects and images
+- 📬 Contact section with React Hot Toast confirmation
+- 🧾 Clean and reusable component structure
+
+---
+
+## 📁 Folder Structure
+
+src/ 
+  ├── components/ 
+    │── Navbar.jsx 
+    ├── Hero.jsx 
+    ├── About.jsx 
+    ├── Skills.jsx 
+    ├── Projects.jsx 
+    ├── Contact.jsx 
+    └── Footer.jsx
+  ├── App.jsx
+  ├── main.jsx
+  └── index.css
+
+🧑‍💻 Author
+Md Ajajur Rahman
+
+Portfolio: [your-link]
+
+GitHub: github.com/mdajajur
+
+LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/md-ajajur-rahman/)
